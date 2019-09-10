@@ -6,11 +6,12 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Jeffrey Hager<jeffrey.hager.dev@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jeff-hager-dev/aws-cloudwatch-helper.git"
+  },
   "peerDependencies": {
     "aws-sdk": "^2.525.0"
   },
